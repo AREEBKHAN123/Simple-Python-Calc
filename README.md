@@ -11,13 +11,13 @@ The program asks the user to enter two numbers.
 
 Then it shows a menu of operations:
 
-+ for addition
+ + for addition
 
-- for subtraction
+ - for subtraction
 
-* for multiplication
+ * for multiplication
 
-/ for division
+ / for division
 
 The user selects an operator.
 
